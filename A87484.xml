@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An addition to the relation of some passages about the English-Irish army, before they came to the siege at Namptwich. Wherein are set downe the occurrences at Hawarden Castle. Done for the satisfaction of some gentlemen, and upon their request. Published by authority.</title>
+            <author>P. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87484</idno>
+            <idno type="STC">Wing J24</idno>
+            <idno type="STC">Thomason E32_13</idno>
+            <idno type="STC">ESTC R208473</idno>
+            <idno type="EEBO-CITATION">99867425</idno>
+            <idno type="PROQUEST">99867425</idno>
+            <idno type="VID">119736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119736)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E32[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An addition to the relation of some passages about the English-Irish army, before they came to the siege at Namptwich. Wherein are set downe the occurrences at Hawarden Castle. Done for the satisfaction of some gentlemen, and upon their request. Published by authority.</title>
+                  <author>P. J.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostocke, dwelling at the signe of the Kings-Head in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643. [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By P. J.</note>
+                  <note>Annotation on Thomason copy: "Feb: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Armies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:119736:1" rendition="simple:additions"/>
+An Addition to the Rela<g ref="char:EOLhyphen"/>tion of ſome Paſſages about the Engliſh-Iriſh-Army, before they came to the ſiege at NAMPTWICH.</p>
+            <p>Wherein are ſet downe the Occurrences at <hi>Hawarden Caſtle.</hi>
+            </p>
+            <p>
+               <hi>Done for the ſatisfaction of ſome Gentlemen, and upon their requeſt.</hi>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <q>
+               <bibl>Job 20. 4; 5.</bibl>
+               <p>
+                  <hi>Knoweſt thou not this of old, ſince man was placed on the earth; that the triumphing of the wicked is ſhort, and the joy of the hypocrite lasts but for a moment.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Pſal. 60. 12.</bibl>
+               <p>
+                  <hi>Through God ſhall we doe valiantly; for he it is that ſhall tread downe our enemies.</hi>
+               </p>
+            </q>
+            <p>LONDON, Printed for <hi>Robert Boſtocke,</hi> dwelling at the Signe of the Kings-Head in Pauls Church-yard. 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119736:2"/>
+            <head>To the Commanders, Gentlemen, Miniſters, Soul<g ref="char:EOLhyphen"/>diers, and Inhabitants in the Garriſon of <hi>Namptwich.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Ive mee leave to graſp you within one Dedicati<g ref="char:EOLhyphen"/>on, whom God hath joyn'd in the co-participati<g ref="char:EOLhyphen"/>on of the ſame mercies. You may look upon your late deliverance and victorie, as upon the libe<g ref="char:EOLhyphen"/>rall returne of millions of prayers. I need not recall the expreſsion. Beſides thoſe ſcarce nume<g ref="char:EOLhyphen"/>rable you had nearer home; greater distance of place did not put you out of the reach of thouſands more. There were thoſe that could not compoſe themſelves to reſt at night; before they had ven<g ref="char:EOLhyphen"/>ted ſome breath in ſighs to God for you, and their eyes were no ſoo<g ref="char:EOLhyphen"/>ner open in the morning, but they were directed to Heaven for you; Heaven had no quiet, nor God any reſt, till you were deli<g ref="char:EOLhyphen"/>vered. Me thinks the mercie it ſelfe, had you no other informa<g ref="char:EOLhyphen"/>tion, would tell you there was wreſtling with God for the procure<g ref="char:EOLhyphen"/>ment of it. That God ſhould burie your bullets in their bodies, who would have ſheathed their ſwords in yours, and give you their Ordnance and Ammunition, who were ſo bold in their demands of yours; tis a goodneſſe beyond your largeſt hopes. Had there been
+<pb facs="tcp:119736:3"/>
+but a raiſing of the ſiege alone it would (I beleeve) have abun<g ref="char:EOLhyphen"/>dantly ſatisfied the moſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſire of your ſelves or your well<g ref="char:EOLhyphen"/>willers. How ſhould you take up the expreſsion of <hi>Ezra,</hi> now thou haſt given us ſuch a del<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verance as this, ſhould we againe breake thy Commandements. Y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u may, nay you will have need of God againe; therefore let h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m not heare an oath amongſt you, nor ſee any more iniqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie in the Camp. Tis true, you were valiant; but who made you ſo? and you playd the men for your people, and for the Citie of your God; but who helpt you to doe ſo? was it not God? I am confident you will not deny it. You have ſeene how powerfull and trustie He is, and that Hee is a preſent help in time of trouble.</p>
+            <p>Being (unexpectedly) taskt with the compoſure of this Rela<g ref="char:EOLhyphen"/>tion, to draw it up out of what intelligence was to be had, by them to whom the care of it was put over by a ſacred Authority; I was loth it ſhould come to your hands without ſome teſtimony of my reſpects to you. I hope your memorie will not need the help of this mean record of the Lords mercie to you; yet your wonted favor makes me to promiſe my ſelfe theſe poore papers acceptance, which you may pleaſe to receive from</p>
+            <closer>
+               <signed>Your ſervant to pray and doe for you to his power, <hi>P. J.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119736:3"/>
+            <head>A Relation of Occurrences at <hi>Hawar<g ref="char:EOLhyphen"/>den-Castle,</hi> betwixt the Parliaments Forces, under the command of Sir <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton,</hi> Major Generall of <hi>North<g ref="char:EOLhyphen"/>wales,</hi> and the <hi>Engliſh-Iriſh</hi> Army then newly come over.</head>
+            <p>AFter the Parliaments Forces had made their way into <hi>Wales,</hi> by forcing their paſſage at <hi>Holt Bridge,</hi> and were poſſeſt of <hi>Holt</hi> and <hi>Wrexam,</hi> with all the Countries of <hi>Denbighſhire</hi> and <hi>Flint</hi> neer about thoſe places, the Engliſh-Iriſh Army came over and landed at <hi>Mostyn.</hi> They ſtaid not long there; but marcht up to the Caſtle of <hi>Hawarden,</hi> and becauſe they had intelligence it was unprovided for neceſſaries for a ſiege by ſome of our falſe friends, they (for expe<g ref="char:EOLhyphen"/>dition ſake) haſtened a party to us; who (our horſe having too ſuddenly diſſerted us) were in the Towne adjoyning to the Caſtle when we thought them fur<g ref="char:EOLhyphen"/>ther off, and there ſurprized our Major (Commander in chiefe) and took him priſoner, ſome ſouldiers they baſely ſlew when they could make no reſiſtance againſt them being then unarmed men; then they ſent us a ſummons by word of mouth by a Trumpet, to which we returned this anſwer, which though ſet downe in the former relation cannot be ſpared hence, becauſe of dependency of what followes upon it.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="2" facs="tcp:119736:4"/>
+                  <opener>
+                     <salute>GENTLEMEN,</salute>
+                  </opener>
+                  <p>WEE are heartily ſorry that you have made ſuch an exchange of Enemies to leave <hi>Iriſh</hi> to fall upon <hi>Engliſh,</hi> and Papiſts to fall upon Proteſtants; we had hoped the blood of that noble Gentleman Sir <hi>Si<g ref="char:EOLhyphen"/>mon Harcourt,</hi> and the many thouſands of Proteſtants who have fallen by the fury of thoſe bloody monſters of <hi>Ireland,</hi> could not have beene ſo ſoone forgotten. What courſe the Court of <hi>England</hi> runs, how deſtru<g ref="char:EOLhyphen"/>ctive to the Proteſtants, and favourable to the Papiſts you cannot but know with us, by ſad experience; And therefore we deſire (before you paſſe further) your thoughts may make a pauſe; leſt you finde that God of the Proteſtants againſt you, whom you have hitherto found miraculouſly for you<g ref="char:punc">▪</g> We feare the loſſe of our Religion, more then the loſſe of our deareſt blood; do not, we beſeech you, deſire us to betray it &amp; our ſelves. We hope your ſecond thoughts may take off the edge of your former Reſolutions: However, we are reſol<g ref="char:EOLhyphen"/>ved to make good our truſt, and put our lives into the hands of that God, who can, and we hope will ſecure them more then our wals or weapons.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Novemb.</hi> 21. 1643.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>John Warren.</item>
+                           <item>Alex. Ellot.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>The Reply of Lievtenant Colonell</hi> Marrow.</head>
+                  <opener>
+                     <salute>GENT.</salute>
+                  </opener>
+                  <p>IT is not for to heare you preach that I am ſent here for, but in His Majeſties name to demand the Ca<g ref="char:EOLhyphen"/>ſtle
+<pb n="3" facs="tcp:119736:4"/>
+for His Majeſties uſe, as your allegeance binds you to be true to him, and not to inveagle thoſe inno<g ref="char:EOLhyphen"/>cent ſoules that are within with you; ſo I deſire your reſolution if you will deliver the Caſtle or no.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Our Anſwer.</head>
+                  <p>SIR, We have cauſe to ſuſpect your diſaffection to preaching, in regard we finde you thus imployed. If there be innocent ſoules here, God will require their blood of them that ſhed it. We can keep our allege<g ref="char:EOLhyphen"/>ance and the Caſtle too, and therefore you may take your anſwer, as it was in Engliſh plaine enough before. We can ſay no more, but Gods will be done.</p>
+               </body>
+            </floatingText>
+            <p>When the body of the <hi>Iriſh</hi> Army (whereof we had but a party before) drew up before the Caſtle we re<g ref="char:EOLhyphen"/>ceived this ſummons.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>To the Commander in chiefe, in the Castle of</hi> Hawarden.</salute>
+                  </opener>
+                  <p>FOr to avoid the effuſion of Chriſtian blood, eſpe<g ref="char:EOLhyphen"/>cially Proteſtants, which you profeſſe your ſelves, we muſt require you in His Majeſties name to ſurren<g ref="char:EOLhyphen"/>der to the Kings uſe (whoſe ſworne ſervants we are) this Caſtle, now in your cuſtodies, we promiſing upon our reputations, to admit you ſuch honourable quar<g ref="char:EOLhyphen"/>ter as is fit for Souldiers, either to give or take, and that we have your immediate anſwer; but if we find you obſtinate, and that you draw blood from us, we ſhal revenge it in the ſame manner as we did the blood of Sir <hi>Simon Harcourt,</hi> which you in your letter put us in mind on, preſuming we have forgot it, which was
+<pb n="4" facs="tcp:119736:5"/>
+of above 300. perſons in <hi>Karrickmayne,</hi> not one ſoule was left alive.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>November</hi> 22. 1643.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>Mic. Ernly.</item>
+                           <item>Ric. Gibſon.</item>
+                        </list>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>We are not ignorant of your wants nor of the ſmall hopes you can have of any reliefe, that can diſturb or hinder our procee<g ref="char:EOLhyphen"/>dings.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>The Anſwer to Sir</hi> Michael Ernly <hi>and Colo<g ref="char:EOLhyphen"/>nell</hi> Gibſons <hi>ſummons.</hi>
+                  </head>
+                  <opener>
+                     <salute>GENT.</salute>
+                  </opener>
+                  <p>WHen we need your mercy expect us to ſeek it, but as yet we doe not, and hope we never ſhall doe; were our neceſſities farre greater then they are, we would beare them, and we know we have friends to relieve us, able to equall farre more ſtrength then we can yet ſee come againſt us. Whatever old wives may tell you our proviſion will outreach your patience of a ſiege; however ſince we find not that peaceableneſſe with you we expected, we ſhall by Gods helpe keepe off your threatned revenge, we are loath to ſhed the blood of any of our Countrymen; but better they bleed then the Kingdome periſh, and they muſt be the Authors of their owne ruine if they ſet upon us, we muſt ſtill retaine our old reſolutions, and when we loſe our lives, you may gaine the Caſtle.</p>
+               </body>
+            </floatingText>
+            <p>The next day came in the Lord <hi>Capell,</hi> vvith ſome ad<g ref="char:EOLhyphen"/>ditionall Forces, and ſent us this ſummons follovving.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>The Lord</hi> Capels <hi>ſummons.</hi>
+                  </head>
+                  <p>WHeras the Caſtle of <hi>Hawarden</hi> hath been ſum<g ref="char:EOLhyphen"/>moned by Sir <hi>Michael Ernly</hi> for to be by you
+<pb n="5" facs="tcp:119736:5"/>
+ſurrendred for his Majeſties uſe, which you have refuſed to performe, contrary to your duty and allegeance; I be<g ref="char:EOLhyphen"/>ing now come to joyne my Forces, with thoſe in his Ma<g ref="char:EOLhyphen"/>jeſties ſervice, here, being by your own Meſſenger whom I have taken, well aſſured of your wants and neceſſities; do ſummon and require of you the ſaid Caſtle preſently to deliver into my hand, for his Majeſties uſe; with this aſ<g ref="char:EOLhyphen"/>ſurance, that if you doe ſpeedily obey this ſummons, you ſhal have liberty to depart with your lives; ſo if you ſhal hold out untill by force or other meanes I gain the ſame, or you be inforced to quit it, I ſhall afford no quarter to any one perſon among you<hi>:</hi> Hereof I expect your imme<g ref="char:EOLhyphen"/>diate anſwer.</p>
+                  <closer>
+                     <dateline>Dated <date>the 24. of <hi>Novemb.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Ar. Capell.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>The Anſwer to the Lord</hi> Capels <hi>ſummons.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>AL this a doe might be ſpared: our greateſt want wil be of Inke and Paper to anſwer your demands, if you multiply Parles: if you continue the Siedg, we ſhal drive that fancy of our neceſſities out of your head<hi>:</hi> the Meſſen<g ref="char:EOLhyphen"/>ger (we are aſſured) could acquaint you with no want of ours, unleſſe you force him to ſay what you pleaſe. Sir, ſpare your paper and uſe your weapons, and we will uſe ours, and make good the Caſtle were your forces ten times more then they are. Quarter we have been told over and over againe, we ſhall have none, but when it comes to that need, we will ſell our lives dearly by the helpe of God.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:119736:6"/>
+                  <head>
+                     <hi>Captaine</hi> Sandfords <hi>Summons.</hi>
+                  </head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>I Preſume you very well know or have heard of my con<g ref="char:EOLhyphen"/>dition and diſpoſition, and that I neither give nor take quarter, I am now with my firelocks (who never yet neg<g ref="char:EOLhyphen"/>lected opportunity to correct Rebels) ready to uſe you as I have done the Iriſh, but loath I am to ſpill my Coun<g ref="char:EOLhyphen"/>trymens blood; wherefore by theſe I adviſe you to your fealty and obedience towards. His Majeſty, and ſhew your ſelves faithfull Subjects by delivering the Caſtle into my hands for His Majeſties uſe. In ſo doing you ſhall be re<g ref="char:EOLhyphen"/>ceived into mercy, &amp;c. Otherwiſe if you put me to the leaſt trouble or loſſe of blood to force you, expect no quarter for man, woman or childe. I heare you have ſome of our late Iriſh Army in your company, they very well know me, and that my fire-locks uſe not to parley. Be not unadviſed, but thinke of your liberty, for I vow all hopes of reliefe is taken from you, and our intents are, not to ſtarve you, but to batter and ſtorme you, and then hang you all, and follow the reſt of that Rebell crew. I am now no bread and cheeſe Rogue, but as ever a Loyal<g ref="char:EOLhyphen"/>liſt, and will ever be whilſt I can write or name</p>
+                  <p>I expect your ſpeedy anſwer this tueſday night at <hi>Broadlane Hall,</hi> where I am now your neer neighbour.</p>
+                  <closer>
+                     <signed>Thomas Sandford.</signed>
+                  </closer>
+                  <trailer>The ſuperſcription of this letter, <hi>To the Officer com<g ref="char:EOLhyphen"/>manding in Chiefe at</hi> Harden-Caſtle, <hi>&amp; his conſorts there.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>This wee counted unworthy any other anſwer then laughter and contempt.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:119736:6"/>
+                  <head>
+                     <hi>Captaine</hi> Sandfords <hi>other Meſſage.</hi>
+                  </head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>I Admire your obſtinacy, thus long to refuſe mercy. I ſend you this, not by way of Parley, but to tell you, no reliefe can (or dare approach you; and that your Ma<g ref="char:EOLhyphen"/>ſters, who left you there, are ſo diſperſt, that neither the one or the other are) or will be (before you ſtarve) able to helpe you, or ſend you ſuccour. I have entertained two honeſt Welſhmen, that three nights ſince ran away from you to doe His Majeſty true ſervice under my command and this night I apprehended one <hi>Thomas Platt,</hi> who as he ſaid made an eſcape to prevent ſtarving, by them all I am certified of your miſery, if you like your preſent condi<g ref="char:EOLhyphen"/>tion, remaine where you are and feaſt your bodies with your boyld corne, and glad your ſoules with a draught of your unwholſome water. I would not adviſe you to enter<g ref="char:EOLhyphen"/>taine a better condition, becauſe I take you to be men deſperately diſpoſed, and not capable of comfort; onely this to anſwer your queſtion of my not being a Souldier, by to morrow I doubt not but to have a mine ready to re<g ref="char:EOLhyphen"/>move you (through the Ayre) from your preſent poſeſ<g ref="char:EOLhyphen"/>ſion, to a habitation that ſhall anſwer your deſert. Pray Gentlemen miſ-cenſure me not, for I am no bragadocio, but reall in thought, word and deed towards His Majeſty, and my words and actions were fram'd in one mold; yet Chriſtianity invites me to pitty you, and once more to ſummon you to your fealty, and to render your ſelves and the Caſtle into (if not my cuſtody) the poſeſſion of Colonell <hi>Davies</hi> or Colonell <hi>Mostyn,</hi> who doe com<g ref="char:EOLhyphen"/>mand now in chiefe in this our Leaguer. Once more neg<g ref="char:EOLhyphen"/>lect
+<pb n="8" facs="tcp:119736:7"/>
+not your lives and (as you may deſerve) Liberty; I am confident of your men, that if they may but heare my laſt and this letter read publikely, they will throw your incendiary over the wals, and I doubt not but ſome <note place="margin">The Cap<g ref="char:EOLhyphen"/>taine of the Regiment.</note> of you will doe that duty to ſave him hanging, and then deliver the Caſtle, and thereby purchaſe your pardons; Gentlmen the Lo. <hi>Capell</hi> is very gracious, and you have kind mediators here. This from your neer neighbour,</p>
+                  <closer>
+                     <dateline>
+                        <hi>From my trenches,</hi> 
+                        <date>
+                           <hi>this Decemb.</hi> 1. 1643.</date>
+                     </dateline>
+                     <signed>Thomas Sandford.</signed>
+                  </closer>
+                  <postscript>
+                     <p>If you pleaſe to be informed that Reliefe cannot come to you, ſend out one of your Sergeants, who ſhall have a Paſſe to and from <hi>Wrexam,</hi> of the truth to informe you.</p>
+                  </postscript>
+                  <trailer>The ſuperſcription of this Letter, <hi>For the Officer in Chiefe now in the Castle of Harden, and to his Aſſociates there.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Our Anſwer.</head>
+                  <p>SIR, big words will not take Caſtle, where men have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he poſſeſſion of them. We wil not beleev our friends are ſo diſperſt upon your teſtimony, but muſt accept of your proffer of one of our owne, to goe inſtead of <hi>Wrex<g ref="char:EOLhyphen"/>ſam</hi> to <hi>Holt,</hi> and thence to ſatisfie us of the eſtate of mat<g ref="char:EOLhyphen"/>ters; your mines we feare much what as your words, that is, juſt nothing at all. The Souldiers have heard your laſt and this, which made them mirth. We deſire you will ſit by and let the Commanders in chief treat. The Incendiary you talk of ſlights, your loud ſlanders and threats, and knowes, that if you doom him to a halter, a better of your owne will be found out to meet with the like cenſure, our
+<pb n="9" facs="tcp:119736:7"/>
+food is better than ſuch as your halfe-ſtarved Souldiers can get, and their drink and ours are much alike. If wee find our ſelves neglected by our friends, we ſhall the more ſuddenly and eaſily ſurrender, but never but upon honourable termes, wee will ra<g ref="char:EOLhyphen"/>ther turne carcaſſes than ſlaves, and die honourable, rather than live to ſhame; we deſire we may have a Sargeant of yours for one of our owne, who is to go upon this imployment, we deſire to know whether things may ſtand as they do during the parley, or whether we ſhall on both ſides follow our work.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>His Reply.</head>
+                  <opener>
+                     <salute>Gent.</salute>
+                  </opener>
+                  <p>YOur letter we have peruſed, and only two lines therin we think fit to be anſwered, and in a word thus wee re<g ref="char:EOLhyphen"/>ſolve; your Sargeant ſhall have libertie to enquire after your hopes, and a Sargeant of ours ſhall reſt with you till hee come back, but upon this condition that hee ſhall returne within foure and twentie houres, in the meane time take your courſe by way of hoſtilitie, for our men cannot be idle, neither muſt we ſleep till you have received your reward due unto you.</p>
+                  <closer>
+                     <signed>
+                        <hi>Thomas Sandford</hi> Captaine of the Fire-locks.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>When wee upon the returne of our Sargeant underſtood the departure of our friends out of the Countrey, ſo that there was no expectance of reliefe, and our Souldiers were impatient of longer wants, having had but one meale a day from the firſt day of the ſiege, we were neceſſitated to ſend this meſſage.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Commander in chiefe in Hawarden, and the reſt of the Gentlemen there.</head>
+                  <opener>
+                     <salute>Gent.</salute>
+                  </opener>
+                  <p>WE underſtand our friends have removed from the Holt, and that is all our intelligencer could know, being ſo narrowly obſerved; but whether they make any pre<g ref="char:EOLhyphen"/>paration for our reliefe we know not. Our condition cannot be ſo bad as theirs in Holt Caſtle was, yet (bleſſed be God) we are able to continue ſuch a time wherein there might be a ſtrange turne of things againe on our ſide, however if we may have theſe following propoſitions granted, we ſhall ſurrender the Caſtle.
+<pb n="10" facs="tcp:119736:8"/>
+                     <list>
+                        <item n="1">1 That there may be a mutuall exchange of priſoners ſince we entred this Countrey, which wee beleeve will not be found diſ<g ref="char:EOLhyphen"/>proportionable.</item>
+                        <item n="2">2 That we may have honourable quarter, to march away bag and baggage, with our Colours flying, and match lighted, and all the Armes and Ammunition in the Caſtle.</item>
+                        <item n="3">3 That we may have a ſafe convoy to the next Garriſon we ſhall make choyſe of in Cheſhire or Shrop ſhire.</item>
+                        <item n="4">4 That we may have ſuch carriages as may be for our uſe.</item>
+                        <item>Your refuſall or delay of the grant of theſe propoſitions will but create further troubles to your ſelves, for wee tell you once more, we will either depart, or dye honourably.</item>
+                     </list>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Commanders in chiefe in Hawarden Caſtle.</head>
+                  <opener>
+                     <salute>Gent.</salute>
+                  </opener>
+                  <p>I Have received your propoſitions, and if you pleaſe to deliver up the Caſtle upon theſe conditions following, well, if otherwiſe, &amp;c.</p>
+                  <p n="1">1 I will give you faire quarter for your lives, only thoſe that have formerly ſerved the King, and revolted from him, ſhall refer themſelves to my mercie.</p>
+                  <p n="2">2 I will admit of no Colours, Armes or Ammunition to be carried out of the Caſtle, only ſuch as are Officers ſhall march with their ſwords; for other baggage I will permit none to paſſe.</p>
+                  <p n="3">3 You ſhall have a ſafe Convoy to Namptwich or Wem, or any other Garriſon within two dayes march.</p>
+                  <p n="4">4 If you will deliver the Caſtle to morrow by nine of the clock, I ſhall punctually performe all theſe conditions, if you refuſe, I will deny all further treatie.</p>
+                  <signed>Mich. Ernly.</signed>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Anſwer.</head>
+                  <p>SIr, we muſt be driven to far greater neceſſities before our ſoul<g ref="char:EOLhyphen"/>diers will part with their Armes; We little thought of ſo ſtrange Returne of thoſe reaſonable Propoſitions we ſent: We deſire you will be pleaſed to make a review of them, and let us
+<pb n="11" facs="tcp:119736:8"/>
+finde more ſatisfaction, or otherwiſe we call God to witneſſe, we will make you keep a cold Chriſtmas, and then make ſpoile of that we can here, and ſo dye in the throng of our enemies, if they ſtand in our wayes. Sir, we will be u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed like Souldiers, or elſe our Armes ſhall faile us, if your after thoughts afford more reaſon, we ſhall be glad; but if otherwiſe, we ſhall not care if you ſpare your Treaty.</p>
+               </body>
+            </floatingText>
+            <p>The next Morning Sir <hi>Mich.</hi> ſent to ſpeake with ſome of us, whereupon Captaine <hi>Ellot,</hi> and the Chaplaine of the Regi<g ref="char:EOLhyphen"/>ment went to him: he told them he was to goe back to Cheſter, and deſired to draw the matter to ſome agreement<hi>:</hi> Whereupon, they wiſhed him to propoſe ſuch honourable termes as they might yeeld to, and ſee the faces of their friends without bluſh<g ref="char:EOLhyphen"/>ing after; he ſaid he would, and thereupon ſaid he would allow halfe Armes, two Colours of three; to march away with one flying, &amp; the other furled up: Alſo two Trunks to the two Cap<g ref="char:EOLhyphen"/>taines, of what they would make choice of in the Caſtle, pro<g ref="char:EOLhyphen"/>vided, It ſhould be at his choice to let them paſſe, or give 20 l. for them: 1 Trunk of Books for the Chaplain of the Regiment; All the Horſes in the Caſtle ſave one, which Sir <hi>Mich.</hi> ſhould chuſe out of them, a Convoy to Wem or Namptwich. Theſe propoſitions they refuſed, and ſo broke off, and returned to the Caſtle. There they called the ſouldiers together, and told them they would not offer that diſhonour to the meaneſt ſouldier, as to yeeld he ſhould march without Armes. But ſome of the ſoul<g ref="char:EOLhyphen"/>diers impatient of further wants, which were like to grow upon them, ſaid they would call for quarter over the Caſtle-wall, if we came not to agreement: Whereupon we were glad to condeſ<g ref="char:EOLhyphen"/>cend (though far againſt the minde of ſome) to Sir <hi>Michaels</hi> propoſitions, which he ſwore ſhould be punctually performed. The next Morne we were to depart the Caſtle, where the Cap<g ref="char:EOLhyphen"/>taines Trunks were rifled, as ſoone as they were brought out of the Caſtle-gate, and the ſouldiers diſarmed, and all within the Gentlemens view, who were at the agreement, onely the Chap<g ref="char:EOLhyphen"/>laine
+<pb n="12" facs="tcp:119736:9"/>
+had 8 l. compoſition for his Trunk. Theſe things would be ſtrange (if any thing be ſtrange amongſt them) and what through flatteries and violence to our men, we got not a fourth part of them out of that Country. Theſe doings may diſcover (if others did not) the temper of the men, and help to raiſe our thankfulnes to that God who hath delivered us from them.</p>
+            <p>You have here only a paper-ſcuffle, and indeed there was little elſe betwixt us. Thus was much inke ſpilt, but little bloud, they not adventuring an aſſault, and we only iſſuing once out of the Caſtle, at which time we beat off one of their Guards, and tooke a Drum, 2 Halberts, 2 Muskets, and ſome Wallets of proviſion which they outran. Sometimes they would about 10 or 11 a clocke at night give us a volley of ſhot under the Caſtle<g ref="char:EOLhyphen"/>wall; but being anſwered, they haſted home to their Burrowes or Earth-workes againe: We ſlew and wounded about 12 of them, and they killed one of ours, and wounded another. Thus have you the relation of this matter, which was once thrown by, but is now fecht abroad by ſuch who muſt not be denyed it.</p>
+            <p>Vpon the victory at Namptwich, one of their Commanders being taken priſoner, ſeeing their Colours carryed before them, ſaid, We were not wont thus to follow our Colours, to whom a Gentleman replyed, you were wont to fight againſt Papiſts.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
